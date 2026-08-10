@@ -4,7 +4,7 @@
 
 `Установите и запустите Elasticsearch, после чего поменяйте параметр cluster_name на случайный.`
 
-`![Задание 1](screenshots/HW-11-03-Task-1.png)`
+`![Задание 1]( screenshots/HW-11-03-Task-1.png )`
 
 
 ### Задание 2. Kibana
